@@ -7,4 +7,5 @@ Resumo: O Trabalho para casa da primeira aula teórico-prática consiste na reso
 
 Lista de Resultados:
 Nível 10 MAZE: https://blockly.games/maze?lang=pt&level=10&&skin=0#mq6akm
+
 Nível 10 TURTLE (desenho do barco à vela): [https://blockly.games/turtle?lang=pt&level=10#q55e2a](https://blockly.games/turtle?lang=pt&level=10#xgyoan)
