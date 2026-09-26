@@ -14,13 +14,13 @@ Foto:
 
 
 
-Resumo: O Trabalho para casa da segunda aula teórico-prática consiste na criação de um jogo e foram dadas duas opções:
+Resumo: O Trabalho para casa da segunda aula teórico-prática consiste na criação de um jogo com duas opções/modalidades de jogo:
 
 Opção 1) o computador pensa num número (entre 0 e 100) e o utilizador tenta adivinhar; 
 
 Opção 2) o utilizador pensa num número (entre 0 e 100) e o computador tenta adivinhar;
 
-Eu escolhi a opção 1, tendo em conta alguns pontos exigidos no jogo, tais como:
+Desenvolvi um jogo tendo em conta as duas modalidades, assim como alguns pontos exigidos no jogo, tais como:
 - Quem tenta adivinhar recebe a resposta com uma das afirmações: "Acertou", "O número que pensei é Maior" ou "O número que pensei é Menor";
 - Uma vez descoberto o número o programa deverá terminar imprimindo o número de tentativas que quem adivinhou usou para chegar ao resultado.
       
