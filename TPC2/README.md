@@ -26,5 +26,5 @@ Desenvolvi um jogo tendo em conta as duas modalidades, assim como alguns pontos 
       
 Lista de Resultados:
 
-
+[Código do TPC2](TPC2.py)
 
