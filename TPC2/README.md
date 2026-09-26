@@ -28,8 +28,3 @@ Lista de Resultados:
 
 
 
-
-
-
-<img width="581" height="239" alt="image" src="https://github.com/user-attachments/assets/4deb04c0-03f5-40be-9c20-aaafebe1f351" />
-
