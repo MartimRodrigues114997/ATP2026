@@ -26,5 +26,5 @@ Desenvolvi um jogo tendo em conta as duas modalidades, assim como alguns pontos 
       
 Lista de Resultados:
 
-[Código do TPC2](TPC2.py)
+[Código do TPC2](https://vscode.dev/github/MartimRodrigues114997/ATP2026/blob/main/TPC2/TPC2.py?vscode-lang=pt-pt)
 
