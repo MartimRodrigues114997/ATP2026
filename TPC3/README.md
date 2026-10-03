@@ -21,4 +21,4 @@ Lista de Resultados:
 
 
 
-[Código para o jogo]((https://vscode.dev/github/MartimRodrigues114997/ATP2026/blob/main/TPC3/TPC3.py?vscode-lang=pt-pt))
+[Código para o jogo](https://vscode.dev/github/MartimRodrigues114997/ATP2026/blob/main/TPC3/TPC3.py?vscode-lang=pt-pt)
