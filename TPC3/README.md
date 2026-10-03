@@ -14,7 +14,16 @@ Foto:
 
 
 
-Resumo: 
+Resumo: O jogo pedido para realizar é uma corrida até ao número 100.
+
+O total começa em 0. O jogador e o computador alternam somando um número de 1 a 10 ao total. Quem atingir exatamente o número 100 vence.
+
+O jogo tem 2 modos de jogo:
+
+MODO 1) O Computador joga primeiro e vence sem chance de o utilizador dar a volta;
+
+MODO 2) O utilizador tem chance de ganhar mas tem de jogar de forma perfeita em todas as jogadas. Se errar numa delas, o computador irá ganhar também.
+
       
 Lista de Resultados:
 
