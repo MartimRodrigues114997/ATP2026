@@ -1,4 +1,4 @@
-Título: Trabalho para casa 4
+Título: Trabalho para casa 5
 
 Nome: Martim Rodrigues
 ID: A114997 
@@ -14,7 +14,14 @@ Foto:
 
 
 
-Resumo:
+Resumo: O trabalho para casa 5 consiste na criação de uma aplicação com menu que regista dados de alunos e guarda-os num ficheiro de texto.
+É possível ainda:
+-consultar alunos por id 
+-listar os alunos já inseridos 
+-carregar uma turma a partir de um ficheiro de texto.
+
+Depois de qualquer operação, o utilizador é sempre reencaminhado para o menu.
+Para a construção do código, adotei uma estrutura semelhante ao TPC4, alterando apenas o propósito de cada função.
 
       
 Lista de Resultados:
