@@ -26,3 +26,5 @@ Para a construção do código, adotei uma estrutura semelhante ao TPC4, alteran
       
 Lista de Resultados:
 
+
+[Código para o jogo](https://vscode.dev/github/MartimRodrigues114997/ATP2026/blob/main/TPC5/TPC5.py?vscode-lang=pt-pt)
