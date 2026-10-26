@@ -16,11 +16,14 @@ Foto:
 
 Resumo: O trabalho para casa 6 consiste na criação de uma aplicação com menu com todas as funções presentes no exercício da meteorologia da Aula Prática nº6.
 Com a aplicação é possível:
--
--
--
--
--
+-Criar e salvar ficheiros de texto que registam temperaturas mínimas, máximas e precipitação indicadas por data.
+-Utilizar essa tabela com dados já salvada ou então introduzir uma nova para realizar mais operações
+   Assim é possível:
+   -Detetar a temperatura mínima mais baixa de todos os dias introduzidos
+   -Calcular a amplitude térmica de todos os dias
+   -Indica o valor máximo de precipitação
+   -Indica quantos dias uns valores são acima ou abaixo de um valor introduzido pelo utilizador
+   -Criar gráficos que representem essas tabelas de dados meteorológicos
    
 Lista de Resultados:
 
